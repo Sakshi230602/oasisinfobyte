@@ -1,0 +1,178 @@
+.container{
+
+display: flex;
+width: 100%;
+height: 370px;
+background-color: rgb(37, 6, 67);
+color: white;
+
+
+}
+#one{
+
+
+    height: 300px;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#two{
+
+
+height: 300px;
+width: 50%;
+display: flex;
+    flex-direction: column;
+
+
+
+}
+#img{
+
+
+width: 300px;
+height: 300px;
+position: relative;
+
+top: 50px;
+
+
+}
+a{
+
+position: relative;
+left: 500px;
+padding: 20px;
+color: white;
+text-decoration-line: none;
+font-size:30px;
+}
+h1{
+
+position: relative;
+left: 130px;
+top: 150px;
+font-size: 50px;
+z-index: 12;
+
+}
+#three{
+
+
+position: relative;
+left: 30px;
+top: 130px;
+
+}
+#four{
+position: relative;
+top: 100px;
+display: grid;
+
+grid-template-columns: 400px 400px;
+width: 500px;
+height: 500px;
+margin: auto;
+
+}
+#five{
+
+
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+#six{
+
+
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+#seven{
+
+width: 100%;
+height: 600px;
+background-color: rgb(50, 50, 107);
+}
+
+#eigth{
+
+width: 100%;
+height: 800px;
+background-color:  rgb(64, 64, 115);
+
+}
+#nine{
+
+display: grid;
+grid-template-columns: 300px 300px 300px;
+width: 950px;
+height: 350px;
+
+margin: auto;
+position: relative;
+bottom: 70px;
+}
+#ten{
+
+  width: 190px; 
+  height: 150px;
+  background-color: rgb(12, 92, 252);
+text-align: center;
+
+
+}
+#ten:hover{
+transition: transform 2s;
+background-color: lightgreen;
+    
+}
+#ele{
+
+
+    display: grid;
+    grid-template-columns: 400px 400px;
+    width: 100%;
+    position: relative;
+    left: 350px;
+    row-gap: 30px;
+    bottom: 39px;
+}
+img{
+
+width: 300px;
+height: 200px;
+
+}
+#thi{
+
+
+display: flex;
+width: 100%;
+height: 400px;
+
+background-color: rgb(6, 6, 251);
+
+}
+#fif{
+
+
+    width: 300px;
+    height: 400px;
+    
+}
+#sis
+{
+    width: 600px;
+    height: 400px;
+    
+
+}
+input{
+
+display: block;
+
+}
